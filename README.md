@@ -25,7 +25,7 @@
 
 ### 闭源商用指纹浏览器
 
-[比特浏览器（BitBrowser）](#bitbrowser) ·
+[比特浏览器（BitBrowser）](#比特浏览器bitbrowser) ·
 [AdsPower](#adspower) ·
 [MostLogin](#mostlogin) ·
 [GoLogin](#gologin) ·
